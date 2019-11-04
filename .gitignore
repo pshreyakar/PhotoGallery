@@ -23,6 +23,7 @@ xcuserdata/
 *.xcscmblueprint
 .DS_Store
 
+
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
